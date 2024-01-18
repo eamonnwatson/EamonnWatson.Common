@@ -11,9 +11,9 @@
     <Description>A common library used in my projects</Description>
     <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
     <RepositoryUrl>https://github.com/eamonnwatson/EamonnWatson.Common</RepositoryUrl>
-    <AssemblyVersion>1.0.2.24011</AssemblyVersion>
-    <FileVersion>1.0.2.24011</FileVersion>
-    <Version>1.0.2</Version>
+    <AssemblyVersion>1.0.3.24018</AssemblyVersion>
+    <FileVersion>1.0.3.24018</FileVersion>
+    <Version>1.0.3</Version>
   </PropertyGroup>
 
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
